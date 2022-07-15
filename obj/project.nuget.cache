@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nYCzVVQzT8stmo7fUZluf28D070HjbhJTpfAcSdaGiFAMhFPFeGdxMWtSKKpTR+N3Fcht8/CHv4OieG8y3l3tg==",
+  "dgSpecHash": "A/pdmTfiQNkwXDHBRDFIwByi3KW3rJ1IHBrtESfHNb10dK8oHNAPCTF0YDTSiEWdr9794NKEQvPnCTPoKuJAJA==",
   "success": true,
   "projectFilePath": "/home/code_monkey/Documents/c#/gradebook2/test/GradeBook.Tests/GradeBook.Tests.csproj",
   "expectedPackageFiles": [

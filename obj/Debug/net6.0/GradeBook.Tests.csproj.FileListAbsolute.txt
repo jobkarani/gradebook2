@@ -96,3 +96,9 @@
 /home/code_monkey/Documents/c#/gradebook2/test/GradeBook.Tests/obj/Debug/net6.0/GradeBook.Tests.pdb
 /home/code_monkey/Documents/c#/gradebook2/test/GradeBook.Tests/obj/Debug/net6.0/GradeBook.Tests.genruntimeconfig.cache
 /home/code_monkey/Documents/c#/gradebook2/test/GradeBook.Tests/obj/Debug/net6.0/ref/GradeBook.Tests.dll
+/home/code_monkey/Documents/c#/gradebook2/test/GradeBook.Tests/bin/Debug/net6.0/CoverletSourceRootsMapping
+/home/code_monkey/Documents/c#/gradebook2/test/GradeBook.Tests/bin/Debug/net6.0/GradeBook.deps.json
+/home/code_monkey/Documents/c#/gradebook2/test/GradeBook.Tests/bin/Debug/net6.0/GradeBook.runtimeconfig.json
+/home/code_monkey/Documents/c#/gradebook2/test/GradeBook.Tests/bin/Debug/net6.0/GradeBook
+/home/code_monkey/Documents/c#/gradebook2/test/GradeBook.Tests/bin/Debug/net6.0/GradeBook.dll
+/home/code_monkey/Documents/c#/gradebook2/test/GradeBook.Tests/bin/Debug/net6.0/GradeBook.pdb
